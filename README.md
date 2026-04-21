@@ -93,7 +93,7 @@ Distance error = Reference position – Current position
 
 ## 📷 Additional Visuals
 
-<img width="400" height="600" alt="241507439-9570f2c9-1389-4a82-8e89-6e6acecf86a0" src="https://github.com/user-attachments/assets/bff922a9-8ca5-47d8-90be-6705c485d52e" />
+<img width="400" height="500" alt="241507439-9570f2c9-1389-4a82-8e89-6e6acecf86a0" src="https://github.com/user-attachments/assets/bff922a9-8ca5-47d8-90be-6705c485d52e" />
 
 
 ---
