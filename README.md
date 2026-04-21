@@ -45,6 +45,7 @@ The project covers:
 - Simulated system behavior in MATLAB/Simulink
 
 ### Self-Balancing Control
+
 Inputs:
 - Tilt angle (θ)
 - Angular velocity (dθ)
@@ -86,7 +87,15 @@ Distance error = Reference position – Current position
 
 ## 🎥 Demo
 
-https://youtube.com/shorts/MfJysFeLQrA?feature=share
+[![Watch Demo](https://img.youtube.com/vi/MfJysFeLQrA/0.jpg)](https://youtube.com/shorts/MfJysFeLQrA?feature=share)
+
+---
+
+## 📷 Additional Visuals
+
+<img width="960" height="1280" alt="241507439-9570f2c9-1389-4a82-8e89-6e6acecf86a0" src="https://github.com/user-attachments/assets/bff922a9-8ca5-47d8-90be-6705c485d52e" />
+
+
 ---
 
 ## 📚 Skills Demonstrated
@@ -105,3 +114,15 @@ https://youtube.com/shorts/MfJysFeLQrA?feature=share
 ## 👥 Team
 
 Developed collaboratively as part of a university project.
+
+---
+
+## 📁 How to Run
+
+```bash
+# Clone repository
+git clone https://github.com/yourusername/robot-project.git
+
+# Open simulation files in MATLAB
+# Upload Arduino code using Arduino IDE
+# Run Raspberry Pi controller script
